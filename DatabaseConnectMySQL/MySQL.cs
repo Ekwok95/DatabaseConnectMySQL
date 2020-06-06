@@ -18,6 +18,9 @@ namespace DatabaseConnectMySQL
          * 
         */
 
+         //abc comment
+
+
         [STAThread]
         static void Main(string[] args)
         {
